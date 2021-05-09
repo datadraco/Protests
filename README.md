@@ -1,5 +1,5 @@
 # Assignment 1: Protests
-This repository contains code and analysis of protests in the United States, using data from [CountLove](https://countlove.org/).
+This repository contains code and analysis of protests in the United States, using data from [CountLove](https://countlove.org/). This code was written for an assignment completed for the INFO 201 course at the University of Washington in February of 2021
 
 ---
 ## Protests in Context
